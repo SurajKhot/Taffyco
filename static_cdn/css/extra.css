@@ -1,0 +1,37 @@
+.cart_list {
+	padding: 10px 10px 10px 10px;
+	margin-bottom: 10px;
+	margin-right: 14px;
+	border: 1px solid #ddd;
+	background-color: #fff;
+	
+}
+
+table.cart_detail, th, td {
+	padding: 10px 45px;
+	margin-bottom: -1px;
+	background-color: #fff;
+	border: 1px solid #ddd;
+	margin: 0 auto;
+}
+
+.btn {
+
+	margin: 10px 10px 10px 10px;
+}
+
+.checkoutbtn {
+	
+	margin-right: 30px;
+}
+
+.continueshopbtn {
+	margin-left: 30px;
+}
+
+.align_update {
+	margin:10px !important ; 
+}
+.navbar-color {
+    background-color: darkred !important ;
+}
